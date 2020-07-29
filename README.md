@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi, I'm Fabian 👋
+-
+I'm a student of chemistry and enjoy working on smaller open source projects in the field of <a href="https://github.com/PythonFZ/ChemData">Chemistry</a> 🧪 and neural networks in different application such as potential energy surfaces or  smartHome.
+
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **PythonFZ/PythonFZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
