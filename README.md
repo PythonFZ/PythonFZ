@@ -2,7 +2,7 @@ Hi, I'm Fabian 👋
 -
 I'm a Ph.D student at the [Institute of Computational Physics | University of Stuttgart](https://www.icp.uni-stuttgart.de/) working in the field of Machine Learning, primarily on Neural Network Potentials for molecular dynamics simulations.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PythonFZ&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=PythonFZ&show_icons=true&theme=tokyonight)
 
 🔭 As a core member of [zincware](https://github.com/zincware), I'm mostly developing Software for the scientific community.
 Some of the projects I'm currently working on are
