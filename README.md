@@ -1,4 +1,4 @@
-Hi, I'm Fabian 👋
+Hi, I'm Fabian (he/him) 👋
 -
 I'm a Ph.D student at the [Institute of Computational Physics | University of Stuttgart](https://www.icp.uni-stuttgart.de/) working in the field of Machine Learning, primarily on Neural Network Potentials for molecular dynamics simulations.
 
