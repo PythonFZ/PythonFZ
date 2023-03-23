@@ -1,4 +1,4 @@
-Hi, I'm Fabian (he/him) 👋
+Hi, I'm Fabian 👋
 -
 I'm a Ph.D student at the [Institute of Computational Physics | University of Stuttgart](https://www.icp.uni-stuttgart.de/) working in the field of Machine Learning, primarily on Neural Network Potentials for molecular dynamics simulations.
 
@@ -10,6 +10,7 @@ Some of the projects I'm currently working on are
 - [MDSuite](https://github.com/zincware/MDSuite) - A post-processing engine for particle simulations.
 - [ZnJSON](https://github.com/zincware/ZnJSON) - Package to Encode/Decode some common file formats to json.
 - [ZnH5MD](https://github.com/zincware/ZnH5MD) - High Performance Interface for H5MD Trajectories.
+- [ZnFlow](https://github.com/zincware/ZnFlow) - General Purpose Framework for Computational Graphs.
 
 
 <!-- ### Hi there 👋 -->
