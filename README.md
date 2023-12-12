@@ -8,9 +8,10 @@ I'm a Ph.D student at the [Institute of Computational Physics | University of St
 Some of the projects I'm currently working on are
 - [ZnTrack](https://github.com/zincware/ZnTrack) - Create, visualize, run & benchmark DVC pipelines in Python & Jupyter notebooks.
 - [MDSuite](https://github.com/zincware/MDSuite) - A post-processing engine for particle simulations.
-- [ZnJSON](https://github.com/zincware/ZnJSON) - Package to Encode/Decode some common file formats to json.
+- [ZnDraw](https://github.com/zincware/ZnDraw) - Visualize and Edit Molecular Structures.
 - [ZnH5MD](https://github.com/zincware/ZnH5MD) - High Performance Interface for H5MD Trajectories.
 - [ZnFlow](https://github.com/zincware/ZnFlow) - General Purpose Framework for Computational Graphs.
+- [ZnJSON](https://github.com/zincware/ZnJSON) - Package to Encode/Decode some common file formats to json.
 
 
 <!-- ### Hi there 👋 -->
